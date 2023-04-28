@@ -2,7 +2,7 @@
 [![Launch In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Leadblock/ChatGLM-6B-Int4-Web-Demo/blob/main/ChatGLM-6B_int4_Web_Demo.ipynb) <-- press here to launch the web int4 demo
 
 
-[![Launch In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Leadblock/ChatGLM-6B-Int4-Web-Demo/ChatGLM-6B_int8_Web_Demo.ipynb) <-- press here to launch the web int8 demo
+[![Launch In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Leadblock/ChatGLM-6B-Int4-Web-Demo/blob/main/ChatGLM-6B_int8_Web_Demo.ipynb) <-- press here to launch the web int8 demo
 ## About ChatGLM
 
 ChatGLM-6B is an open bilingual language model based on [General Language Model (GLM)](https://github.com/THUDM/GLM) framework, with 6.2 billion parameters. With the quantization technique, users can deploy locally on consumer-grade graphics cards (only 6GB of GPU memory is required at the INT4 quantization level).
