@@ -1,5 +1,6 @@
 # ChatGLM-6B-Int4-Web-Demo
 [![Launch In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarkSchmidty/ChatGLM-6B-Int4-Web-Demo/blob/main/ChatGLM-6B_int4_Web_Demo.ipynb) <-- press here to launch the web int4 demo
+
 [![Launch In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarkSchmidty/ChatGLM-6B-Int4-Web-Demo/blob/main/ChatGLM-6B_int8_Web_Demo.ipynb) <-- press here to launch the web int8 demo
 ## About ChatGLM
 
